@@ -1,7 +1,7 @@
 # Gender Fairness Analysis
 
 <h2>Description</h2>
-This project analyzes employee salary, promotion, and hiring data from Black Saber Software through exploratory data analysis, visualization, and modeling. The study examines potential gender bias in compensation and advancement processes. An executive summary was prepared for the Board of Directors, and a detailed technical report was developed for the technical department.
+This project analyzes employee salary, promotion, and hiring data from Black Saber Software through exploratory data analysis, visualization, and regression modeling. The study examines potential gender bias in compensation and advancement processes. An executive summary was prepared for the Board of Directors, and a detailed technical report was developed for the technical department.
 
 <h2>Languages and Tools Used</h2>
 
