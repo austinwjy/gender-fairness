@@ -12,10 +12,15 @@ This project analyzes employee salary, promotion, and hiring data from Black Sab
 
 <h2>Project Walk-through</h2>
 
-- <b>Raw data is provided by Black Saber Software [Datasets](https://github.com/austinwjy/gender-fairness/tree/main/data)</b>
 - <b>[R-markdown](https://github.com/austinwjy/gender-fairness/blob/main/Analysis.Rmd)</b>
 
 
 <h2>Full Report</h2>
 
-[Report](https://github.com/austinwjy/gender-fairness/blob/main/Report.pdf)
+- <b>[Gender Fairness Analysis](https://github.com/austinwjy/gender-fairness/blob/main/Report.pdf)</b>
+
+<h2>Data Disclosure</h2>
+  
+- <b>Original data used in this project is private and cannot be distributed.</b>
+- <b>No raw data files are included in this repository.</b>
+- <b>Outputs (figures/tables) are derived from private data and are illustrative only.</b>
