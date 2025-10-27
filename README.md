@@ -21,6 +21,6 @@ This project analyzes employee salary, promotion, and hiring data from Black Sab
 
 <h2>Data Disclosure</h2>
   
-- <b>Original data used in this project is private and cannot be distributed.</b>
+- <b>Company-provided dataset used for academic purposes under institutional/assignment terms.</b>
 - <b>No raw data files are included in this repository.</b>
 - <b>Outputs (figures/tables) are derived from private data and are illustrative only.</b>
